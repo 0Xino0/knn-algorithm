@@ -25,6 +25,4 @@ The dataset used is "Cancer_Data.csv," which includes diagnostic results and fea
 - Classification accuracy on the test data.
 - Prediction for user-provided input sample.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
